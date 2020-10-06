@@ -1,0 +1,12 @@
+ul li {
+	/* list-style-image: url('https://images.unsplash.com/photo-1584152837901-a3d60f1938b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1191&q=80'); */
+	list-style: none;
+	float: left;
+	color:  white;
+	padding: 20px;
+	margin-left: 2px;
+	background: red; 
+}
+/* ol li {
+	list-style: upper-roman;
+} */
